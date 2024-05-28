@@ -3,7 +3,7 @@ This documentation is for Elijah UI Credit To Me
 
 ## Booting the Elijah UI Library
 ```lua
-local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/Vape.txt")()
+local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/ElijahGamingRBLX/Elijah-UI/main/library.lua")()
 ```
 
 
